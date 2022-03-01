@@ -124,7 +124,7 @@ def booking(url, user_name, password, type, stadium, date):
 
 if __name__ == '__main__':
     url = 'https://sports.sjtu.edu.cn'
-    booking(url, 'vihowe', '314159Goodboy', 'badminton', 'xinti', '12-05')
+    booking(url, 'jaccount_id', 'jaccount_passwd', 'badminton', 'xinti', '12-05')
     # convert_img('./veri.png')
 
 
